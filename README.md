@@ -23,7 +23,7 @@ For anyone wants to have your contribution graph with lots of commit like a pro.
 - Install Git: <a href="https://git-scm.com/downloads">
     <img src="https://img.shields.io/badge/Git-64bit-orange" height="20"> 
   </a>
-  - Git "Log in", run this code in Terminal of VSC:
+  + Git "Log in", run this code in Terminal of VSC:
   ```
   git config --global user.name "your_username"
   git config --global user.email "your_email_address@example.com"
@@ -32,6 +32,11 @@ For anyone wants to have your contribution graph with lots of commit like a pro.
   ```
   git init
   ``` 
+  + To check whether you log in or not
+```
+git log
+```
+  + Your email and email in the terminal must be the same. 
   
  ### 2. Create new repository
  - Create your new repository (Public or Private is both ok) with a file "README.md". For example: Your new repository is named "github-graph"
