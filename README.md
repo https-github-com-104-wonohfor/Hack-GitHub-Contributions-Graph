@@ -36,7 +36,8 @@ For anyone wants to have your contribution graph with lots of commit like a pro.
 ```
 git log
 ```
-  + Your email and email in the terminal must be the same. 
+   + Your email and email in the terminal must be the same. 
+   + Your email and email in the terminal must be the same. 
   
  ### 2. Create new repository
  - Create your new repository (Public or Private is both ok) with a file "README.md". For example: Your new repository is named "github-graph"
