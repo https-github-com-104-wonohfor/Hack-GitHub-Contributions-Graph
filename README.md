@@ -60,7 +60,16 @@ def make_commit(days: int):
 
 make_commit(40)
 ```
-- Run this file in terminal with code:
+- Open Terminal(in VSC) and run code:
+```
+git config --global --add safe.directory 'your repo position'
+```
+  + For example, for me is:
+  ```
+  git config --global --add safe.directory 'H:/GitHub of 104/github-bot'
+  ```
+
+- Run terminal with code:
 ```
 py Code.py
 ```
